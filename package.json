@@ -1,0 +1,18 @@
+{
+  "name": "cali",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.0.1"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.2.4",
+    "masonry-layout": "^4.2.2",
+    "postcss": "^8.2.6",
+    "tailwindcss": "^2.0.3"
+  }
+}
